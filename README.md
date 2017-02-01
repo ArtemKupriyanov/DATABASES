@@ -4,4 +4,4 @@
 
 * [Конкурс от Лаборатории Касперского](https://github.com/ArtemKupriyanov/DATABASES/tree/master/Kaspersky)
 
-* [Курс по базам данных от НИКС МФТИ]()
+* [Курс по базам данных от НИКС МФТИ](https://github.com/ArtemKupriyanov/DATABASES/tree/master/NIX_DataBases)
